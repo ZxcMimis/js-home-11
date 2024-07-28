@@ -72,10 +72,10 @@ const user = {
 console.log(user)
 user.login();
 
-const movieRating = parseFloat(prompt(`Поставте оцінку фільму People in Black`));
+const movieRating = parseFloat(prompt(`Поставте оцінку фільму Месники`));
 
 const movie = {
-    title: "mimimamamu",
+    title: "Месники",
     director: 'Zitraks',
     year: 2010,
     rating: [movieRating],
